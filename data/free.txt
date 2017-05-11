@@ -804,6 +804,7 @@ facebook-email.ga
 facebook.com
 facebookmail.gq
 fahr-zur-hoelle.org
+fake-box.com
 fake-email.pp.ua
 fake-mail.cf
 fake-mail.ga
@@ -3215,6 +3216,7 @@ onobox.com
 op.pl
 opayq.com
 openmailbox.org
+opentrash.com
 operafan.com
 operamail.com
 opoczta.pl
@@ -3467,6 +3469,7 @@ rescueteam.com
 resgedvgfed.tk
 resumemail.com
 rezai.com
+re-gister.com
 rhyta.com
 richmondhill.com
 rickymail.com
@@ -3917,8 +3920,10 @@ totalmail.de
 totalmusic.net
 tpg.com.au
 trash-amil.com
+trash-mail.com
 trash-mail.ga
 trash-mail.ml
+trash-me.com
 trash2010.com
 trash2011.com
 trashdevil.de
@@ -4268,6 +4273,7 @@ yopolis.com
 yopweb.com
 youareadork.com
 youmailr.com
+you-spam.com
 your-house.com
 your-mail.com
 yourlifesucks.cu.cc
